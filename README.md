@@ -10,6 +10,7 @@ cd bs_linux
 
 ruby bs.rb
 
+
 Kali Linux
 
 git clone https://github.com/DrkalkylFly/bs_linux
